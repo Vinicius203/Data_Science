@@ -46,3 +46,8 @@
   <li>Data Science: Visualização de Dados para Saúde e Medicina</li>
 </ul>
 
+<br>
+
+<h3>Além das aulas, a formação também conta com exercícios, vídeos adicionais, podcasts e artigos para o aprofundamento nos assuntos. Caso tenha interesse,
+a formação pode ser encontrada nesse link:</h3>
+<a href="https://cursos.alura.com.br/formacao-data-science)https://cursos.alura.com.br/formacao-data-science">Formação Data Science - Alura</a>
